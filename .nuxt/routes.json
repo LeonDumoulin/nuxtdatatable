@@ -1,0 +1,16 @@
+[
+  {
+    "name": "pla",
+    "path": "/pla",
+    "component": "/home/leon/Desktop/datatable_nuxt/pages/pla.vue",
+    "chunkName": "pages/pla",
+    "_name": "_f977df98"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/leon/Desktop/datatable_nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_fe24d23e"
+  }
+]
